@@ -6,7 +6,8 @@ Message = "Very tricky!"
 print(message) # show the message on the screen
 print(Message) # show the message on the screen
 
-# Perform mathematical operations
+# Perform mathema
+# tical operations
 result = 2*3
 print("2*3 =", result)
 result = 5 - 3

@@ -8,4 +8,4 @@ answer = input("Are you enjoying the course? ")
 if answer == "Yes":
     print("That's good to hear!")
 else:
-    print("Oh no! That makes me sad!")
+    print("Oh no! That makeps me sad!")
